@@ -3,6 +3,7 @@
   <HeaderVue></HeaderVue>
   <router-view></router-view>
   <FooterVue></FooterVue>
+  <div>haaaaa</div>
 
  </div>
 </template>
